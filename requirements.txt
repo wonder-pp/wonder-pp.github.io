@@ -1,9 +1,0 @@
-numpy
-pandas
-matplotlib
-streamlit
-requests
-openpyxl
-python-dotenv
-altair==4.2.2
-
