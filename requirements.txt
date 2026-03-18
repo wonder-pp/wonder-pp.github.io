@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+streamlit
+requests
+openpyxl
+python-dotenv
+altair==5.0.1
+
